@@ -1,0 +1,5 @@
+idl_path: F:\campaigns\mosaic-aca\data\smart\idl\
+data_path: T:\data_raw\MOSAiC_ACA_S_raw\Flight_20200908a\SMART\
+output_path: F:\campaigns\mosaic_aca\data\smart\Flight_20200908a\
+calib_path: F:\campaigns\mosaic-aca\data\smart\calib_smart\kalfaks\
+quicklook(0/1): 0
